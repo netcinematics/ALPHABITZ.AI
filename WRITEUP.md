@@ -12,15 +12,43 @@ or any other reflections from the course.
 - Don't forget to add a cover image and 
 include any other appropriate tags for your post.
 
-# Hooray "extra" ALPHABITZ!
+# Hooray for "ALPHABITZ"!
 
-ALPHABITZ extends rapidly into LEXICAL_SCIENCE, for extra conceptual ACCESSIBILITY!
+> "ALPHABITZ" - is a new language for ACCESSIBILITY!
+
+Version 2 of ALPHABITZ is "EXTRA", for "EXTRA" CONCEPTUAL_ACCESSIBILITY!
+
+___
+
+## "EXTRA_ACCESSIBILITY":
+
+> That's right, ALPHABITZ is "EXTRA", ACCESSIBILITY - to actual_extra_intelligence (AXI) - for everyone!
 
 <img width="1024" height="1024" alt="GENERATIVE_INTELLIGENCE_001" src="https://github.com/user-attachments/assets/713bada5-b88a-4f86-baeb-c608f73a15da" />
 
 
+ALPHABITZ extends rapidly into LEXICAL_SCIENCE, for extra conceptual ACCESSIBILITY!
 
-> Optimize INPUT text with GEMINI AGENTS and MECHANISMS for accessible expression of human mentality - via generation of actual "EXTRA" intelligence.
+___
+
+### GEMINI AGENTS:
+
+> Optimize INPUT text, for AI, with GEMINI AGENTS and "extra" AXI MECHANISMS.
+
+#### Code Example:
+
+```python
+import AXI_AGENT
+import LEXSCI_AGENT
+
+pristineTXT = LEXSCI_AGENT.exactify()
+AXI_AGENT.optimize(pristineTXT)
+
+```
+
+#### DESCRIPTION: 
+
+That code is a simple example of how to use the AXI_AGENT and LEXSCI_AGENT to optimize text for AI.
 
 ___
 
@@ -28,7 +56,11 @@ Dear esteemed technologists!
 
 > Today is an exemplary day - to articulate all existence.
 
-For intellect to be accessible to all!
+There is a mechanism for that unfulfilled need - called "aNEOLOGZaMECHZa"
+
+For CONCEPTUAL_ACCESSIBILITY!
+
+> CONCEPTUAL_ACCESSIBILITY (=) equals, concepts not yet articulated, OR in ALPHABITZ - CONCEPTS_NOT_YET_NAMERATED.
 
 As a firm believer that conceptual ability should be accessible to all humanity.
 
@@ -36,51 +68,66 @@ As a firm believer that conceptual ability should be accessible to all humanity.
 
 - Python open-source MIT.
 
+Check it out: https://github.com/ANTIGRAVITY_AI/ALPHABITZ_AI_V2.
+
 ___
 
 ### PLAIN and SIMPLE:
 
 > This paper describes the exciting journey through alignment and accessibility. 
 
-EQUIVALENT to the esteemed innovation of ALPHABETICS and ACRONYMS - for humanity. 
+EQUIVALENT to honorable innovation of ALPHABETICS and ACRONYMS - for human benefit.
 
-This paper describes similar accessible BENEFITS for humanity - through a NOVEL LINGUISTIC SCIENCE. 
+This project continues the innovative trajectory - of ENHANCED_SYNTAX.
 
-> Enabled by GEMINI and Python on generativeai ADK!
+With similar BENEFITS for humanity, of ACCESSIBILITY, to expressiveness and learning.
 
-Sophisticated Linguistic Enhancement Techniques, called "ENHANCED_SYNTAX".
+> Through a NOVEL breakthrough SCIENCE extending LINGUISTICS and Lexicology - called "LEXSCI"! 
+
+Enabled by GEMINI and Python with generativeai ADK!
+
+LEXSCI is a collection of Sophisticated Linguistic Enhancement Techniques, of "ENHANCED_SYNTAX" - for LANGUAGE_EXACTIFICATION.
 
 > Human language redesigned for the Artificial Intelligence Age.
 
-A recipe, that results in "Generative_Intelligence" practices.
+With the motto: less confusing, more accessible clarity!
 
-> Intelligence tools "extended" beyond industrial age into "AGE_of_AI".
+For an astonishing AI recipe, that not only results in COST CUTS for COMPUTE with AI INPUTE OPTIMIZATION, but also results in "Generative_Intelligence" practices - for benefit of humanity.
+
+> First of its kind, Intelligence Tools, "extended" beyond industrial age into the "AGE_of_AI" - as EXTRA!
 
 ___
 
 ### AI RECIPE beyond MISNOMER:
 
-AGI: defines "general" intelligence.
+A simple AI recipe to CONCEPTUALIZE beyond "ANCIENT_MISNOMER".
 
-ASI: defines "super" intelligence.
+> HOW to SOLVE HUMAN MISNOMER?
 
-"AXI": defines "EXTRA" intelligence.
+AGI: defines "general" intelligence. Right? And,
+
+ASI: defines "super" intelligence. Right?
+
+Well,
+
+"AXI": defines "ACTUAL_EXTRA_INTELLIGENCE".
 
 > AXI = "actual_extra_intelligence".
 
 Pronounced: [ ax + eee ].
 
-PRACTICED like a craft, as a NEW SCIENCE - called "LEXSCI".
+> AXI is a collection of mechanisms, that gather all human concepts, and epiphany - for accessible articulation of "actual_reality", as actual_extra_intelligence" - for AI and human mind.
 
-> LEXSCI = "LEXICAL_SCIENCE".
+PRACTICED like a craft, with principles and best practices,as a (new) SCIENCE - called "LEXSCI".
+
+> LEXSCI (=) equals "LEXICAL_SCIENCE", which is aligned, to exactification of language to best reflect actual reality.
 
 Pronounced: [ lex + eee ].
 
-> With distinction of "extra" as extraordinary breakthrough for AI.
+> With distinction of "extra", as an extraordinary breakthrough for AI.
 
 Because, "AXI_THEOREM".
 
-> HOW to SOLVE HUMAN MISNOMER?
 
 ___
 
